@@ -1,0 +1,7 @@
+﻿{
+	"Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Data Source=192.168.0.110;Initial Catalog=openshiftsampledb;User ID=openshiftuser;Password=newuser#123"
+    }
+	}
+}
